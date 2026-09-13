@@ -86,6 +86,7 @@ Ingeniero de Sistemas egresado de la Universidad Nacional de San Agustín (Arequ
 <div align="center">
 
 ![Rodrigo's GitHub stats](https://github-stats-extended.vercel.app/api?username=rodrigo-viza-dev&show_icons=true&hide_border=true&bg_color=1C1F26&title_color=B87333&icon_color=B87333&text_color=C9D1D9)
+
 ![snake](https://raw.githubusercontent.com/rodrigo-viza-dev/rodrigo-viza-dev/output/dist/github-snake-dark.svg)
 </div>
 
