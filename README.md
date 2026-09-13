@@ -8,7 +8,7 @@
 
 Ingeniero de Sistemas egresado de la Universidad Nacional de San Agustín (Arequipa, Perú), tercio superior académico. Construyo productos web con React/Next.js y Kotlin, y aplico Python, SQL y Power BI a problemas de datos reales — desde comercio electrónico hasta trazabilidad de cadenas de suministro.
 
-📍 Arequipa, Perú &nbsp;·&nbsp; 🌐 [rodrigo-viza.vercel.app](https://rodrigo-viza.vercel.app) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rodrigoviza)
+📍 Arequipa, Perú &nbsp;·&nbsp; 🌐 [rodrigo-viza.vercel.app]([https://rodrigo-viza.vercel.app](https://portfolio-ochre-ten-vd4hlikh44.vercel.app/es/)) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rodrigoviza)
 
 <br>
 
